@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Margaret wambui 
-- 👀 I’m interested in Data Analysis,Software engineering etc
+- 👀 I’m interested in Data Analysis,Software engineering ,web developement ,app development etc
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Business Data analysis projects
 - 📫 How to reach me through linkedln link on my Bio
