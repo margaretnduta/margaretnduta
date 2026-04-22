@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI chat bot Automation with python and n8n**
 
-- 🌱 I’m currently learning **R language**
+- 🌱 I’m currently learning **data visualisation,cleaning,analysis and manupulation**
 
 - 👯 I’m looking to collaborate on **Data analysis projects**
 
