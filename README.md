@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=margaretnduta&label=Profile%20views&color=0e75b6&style=flat" alt="margaretnduta" /> </p>
 
 
-- 🔭 I’m currently working on **AI & ML**
+- 🔭 I’m currently working on **AI & ML & Data Science**
 
 - 🌱 I’m currently learning **data visualisation,cleaning,analysis and manupulation**
 
