@@ -1,5 +1,5 @@
 
-<h1 align="center">A passionate Data Analysist</h1>
+<h1 align="center">A passionate Data Analyst</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=margaretnduta&label=Profile%20views&color=0e75b6&style=flat" alt="margaretnduta" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **margaretdigitalcreations@gmail.com**
 
-- 📄 Know about my experiences [https://margaret-wambui-cv.tiiny.site](https://margaret-wambui-cv.tiiny.site)
+- 📄 My Cv[https://margaret-wambui-cv.tiiny.site](https://margaret-wambui-cv.tiiny.site)
 
 - ⚡ Fun fact **Did you know that keyboard never sleep because they have two shifts**
 
