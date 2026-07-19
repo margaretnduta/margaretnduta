@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **margaretdigitalcreations@gmail.com**
 
-- 📄 My Cv[https://margaret-wambui-cv.tiiny.site](https://margaret-wambui-cv.tiiny.site)
+- 📄 My Cv[https://margaret-wambui-cv.tiiny.site](https://margaretwambui.tiiny.site)
 
 - ⚡ Fun fact **Did you know that keyboard never sleep because they have two shifts**
 
